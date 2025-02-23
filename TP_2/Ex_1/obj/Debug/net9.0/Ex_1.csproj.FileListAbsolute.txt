@@ -1,0 +1,14 @@
+D:\.NETProjects\TPs\TP_2\Ex_1\obj\Debug\net9.0\Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NETProjects\TPs\TP_2\Ex_1\obj\Debug\net9.0\Ex_1.AssemblyInfoInputs.cache
+D:\.NETProjects\TPs\TP_2\Ex_1\obj\Debug\net9.0\Ex_1.AssemblyInfo.cs
+D:\.NETProjects\TPs\TP_2\Ex_1\obj\Debug\net9.0\Ex_1.csproj.CoreCompileInputs.cache
+D:\.NETProjects\TPs\TP_2\Ex_1\bin\Debug\net9.0\Ex_1.exe
+D:\.NETProjects\TPs\TP_2\Ex_1\bin\Debug\net9.0\Ex_1.deps.json
+D:\.NETProjects\TPs\TP_2\Ex_1\bin\Debug\net9.0\Ex_1.runtimeconfig.json
+D:\.NETProjects\TPs\TP_2\Ex_1\bin\Debug\net9.0\Ex_1.dll
+D:\.NETProjects\TPs\TP_2\Ex_1\bin\Debug\net9.0\Ex_1.pdb
+D:\.NETProjects\TPs\TP_2\Ex_1\obj\Debug\net9.0\Ex_1.dll
+D:\.NETProjects\TPs\TP_2\Ex_1\obj\Debug\net9.0\refint\Ex_1.dll
+D:\.NETProjects\TPs\TP_2\Ex_1\obj\Debug\net9.0\Ex_1.pdb
+D:\.NETProjects\TPs\TP_2\Ex_1\obj\Debug\net9.0\Ex_1.genruntimeconfig.cache
+D:\.NETProjects\TPs\TP_2\Ex_1\obj\Debug\net9.0\ref\Ex_1.dll
