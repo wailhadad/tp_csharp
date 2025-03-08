@@ -1,48 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5cb11240-d951-4f11-b665-9d0aedc53c83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TP_4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP_4/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_1/obj/Debug/net9.0/Ex_1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_1/obj/Debug/net9.0/Ex_1.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_1/obj/Debug/net9.0/Ex_1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_1/obj/Debug/net9.0/Ex_1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_1/Ex_1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_1/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_1/Ex_1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_1/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_2/obj/Debug/net9.0/Ex_2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_2/obj/Debug/net9.0/Ex_2.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_2/obj/Debug/net9.0/Ex_2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_2/obj/Debug/net9.0/Ex_2.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_1/Ex_2/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_2/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_1/Ex_2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_2/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_3/obj/Debug/net9.0-windows/Ex_3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_3/obj/Debug/net9.0-windows/Ex_3.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_3/obj/Debug/net9.0-windows/Ex_3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_3/obj/Debug/net9.0-windows/Ex_3.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_1/Ex_3/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_3/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_1/Ex_3/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_3/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/bin/Debug/net9.0-windows/Ex_4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/bin/Debug/net9.0-windows/Ex_4.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/bin/Debug/net9.0-windows/Ex_4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/bin/Debug/net9.0-windows/Ex_4.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/bin/Debug/net9.0-windows/Ex_4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/bin/Debug/net9.0-windows/Ex_4.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/Ex_4.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/ref/Ex_4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/ref/Ex_4.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/refint/Ex_4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/obj/Debug/net9.0-windows/refint/Ex_4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_1/Ex_4/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_4/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_5/obj/Debug/net9.0/Ex_5.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_5/obj/Debug/net9.0/Ex_5.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP_1/Ex_5/obj/Debug/net9.0/Ex_5.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_5/obj/Debug/net9.0/Ex_5.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_1/Ex_5/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_5/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_1/Ex_5/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TP_1/Ex_5/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/bin/Debug/net9.0/GestionPersonnel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/bin/Debug/net9.0/GestionPersonnel.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/bin/Debug/net9.0/GestionPersonnel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/bin/Debug/net9.0/GestionPersonnel.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/bin/Debug/net9.0/GestionPersonnel.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/bin/Debug/net9.0/GestionPersonnel.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/GestionPersonnel.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/GestionPersonnel.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/GestionPersonnel.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/GestionPersonnel.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/GestionPersonnel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/GestionPersonnel.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/GestionPersonnel.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/GestionPersonnel.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/GestionPersonnel.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/GestionPersonnel.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/ref/GestionPersonnel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/ref/GestionPersonnel.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/refint/GestionPersonnel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/Debug/net9.0/refint/GestionPersonnel.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TP_3/GestionPersonnel/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,17 +60,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/.NETProjects/TPs&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/.NETProjects/TPs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,6 +85,8 @@
       <updated>1740315709416</updated>
       <workItem from="1740315710512" duration="90000" />
       <workItem from="1740752742119" duration="21000" />
+      <workItem from="1740753403893" duration="217000" />
+      <workItem from="1741267286513" duration="1296000" />
     </task>
     <servers />
   </component>
