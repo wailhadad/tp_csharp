@@ -1,0 +1,30 @@
+{
+  "211435": {
+    "AccountNumber": "211435",
+    "OwnerName": "wail_hadad",
+    "Balance": 1497778.0,
+    "TransactionHistory": [
+      "21/02/2025 19:40:38 : Account \"211435\" has been created with balance : 1500000 $",
+      "21/02/2025 20:09:16 : 20000 is credited, new Account balance is : 1520000 ",
+      "21/02/2025 20:12:00 : 22222 is debited, new Account amount is : 1497778",
+      "21/02/2025 20:12:00 : 22222 is transfered to from the account No : \"211435\" to the account No : \"279378\""
+    ]
+  },
+  "279378": {
+    "AccountNumber": "279378",
+    "OwnerName": "anas_hadad",
+    "Balance": 1022222.0,
+    "TransactionHistory": [
+      "21/02/2025 19:41:00 : Account \"279378\" has been created with balance : 1000000 $",
+      "21/02/2025 20:12:00 : 22222 is credited, new Account balance is : 1022222 "
+    ]
+  },
+  "658678": {
+    "AccountNumber": "658678",
+    "OwnerName": "mohammad_hadad",
+    "Balance": 2500000.0,
+    "TransactionHistory": [
+      "21/02/2025 19:41:32 : Account \"658678\" has been created with balance : 2500000 $"
+    ]
+  }
+}
