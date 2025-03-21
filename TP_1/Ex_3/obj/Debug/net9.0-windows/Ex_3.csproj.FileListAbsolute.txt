@@ -1,0 +1,14 @@
+D:\.NETProjects\TPs\TP_1\Ex_3\bin\Debug\net9.0-windows\Ex_3.exe
+D:\.NETProjects\TPs\TP_1\Ex_3\bin\Debug\net9.0-windows\Ex_3.deps.json
+D:\.NETProjects\TPs\TP_1\Ex_3\bin\Debug\net9.0-windows\Ex_3.runtimeconfig.json
+D:\.NETProjects\TPs\TP_1\Ex_3\bin\Debug\net9.0-windows\Ex_3.dll
+D:\.NETProjects\TPs\TP_1\Ex_3\bin\Debug\net9.0-windows\Ex_3.pdb
+D:\.NETProjects\TPs\TP_1\Ex_3\obj\Debug\net9.0-windows\Ex_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NETProjects\TPs\TP_1\Ex_3\obj\Debug\net9.0-windows\Ex_3.AssemblyInfoInputs.cache
+D:\.NETProjects\TPs\TP_1\Ex_3\obj\Debug\net9.0-windows\Ex_3.AssemblyInfo.cs
+D:\.NETProjects\TPs\TP_1\Ex_3\obj\Debug\net9.0-windows\Ex_3.csproj.CoreCompileInputs.cache
+D:\.NETProjects\TPs\TP_1\Ex_3\obj\Debug\net9.0-windows\Ex_3.dll
+D:\.NETProjects\TPs\TP_1\Ex_3\obj\Debug\net9.0-windows\refint\Ex_3.dll
+D:\.NETProjects\TPs\TP_1\Ex_3\obj\Debug\net9.0-windows\Ex_3.pdb
+D:\.NETProjects\TPs\TP_1\Ex_3\obj\Debug\net9.0-windows\Ex_3.genruntimeconfig.cache
+D:\.NETProjects\TPs\TP_1\Ex_3\obj\Debug\net9.0-windows\ref\Ex_3.dll

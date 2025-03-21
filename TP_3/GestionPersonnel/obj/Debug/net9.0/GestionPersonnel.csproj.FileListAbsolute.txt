@@ -1,0 +1,15 @@
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\bin\Debug\net9.0\GestionPersonnel.exe
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\bin\Debug\net9.0\GestionPersonnel.deps.json
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\bin\Debug\net9.0\GestionPersonnel.runtimeconfig.json
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\bin\Debug\net9.0\GestionPersonnel.dll
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\bin\Debug\net9.0\GestionPersonnel.pdb
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\obj\Debug\net9.0\GestionPersonnel.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\obj\Debug\net9.0\GestionPersonnel.AssemblyInfoInputs.cache
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\obj\Debug\net9.0\GestionPersonnel.AssemblyInfo.cs
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\obj\Debug\net9.0\GestionPersonnel.csproj.CoreCompileInputs.cache
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\obj\Debug\net9.0\GestionPersonnel.sourcelink.json
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\obj\Debug\net9.0\GestionPersonnel.dll
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\obj\Debug\net9.0\refint\GestionPersonnel.dll
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\obj\Debug\net9.0\GestionPersonnel.pdb
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\obj\Debug\net9.0\GestionPersonnel.genruntimeconfig.cache
+D:\.NETProjects\TPs\TP_3\GestionPersonnel\obj\Debug\net9.0\ref\GestionPersonnel.dll

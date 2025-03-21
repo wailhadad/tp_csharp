@@ -1,0 +1,13 @@
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\bin\Debug\net9.0\CrudDDL.deps.json
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\bin\Debug\net9.0\CrudDDL.dll
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\bin\Debug\net9.0\CrudDDL.pdb
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\obj\Debug\net9.0\CrudDDL.csproj.AssemblyReference.cache
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\obj\Debug\net9.0\CrudDDL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\obj\Debug\net9.0\CrudDDL.AssemblyInfoInputs.cache
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\obj\Debug\net9.0\CrudDDL.AssemblyInfo.cs
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\obj\Debug\net9.0\CrudDDL.csproj.CoreCompileInputs.cache
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\obj\Debug\net9.0\CrudDDL.sourcelink.json
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\obj\Debug\net9.0\CrudDDL.dll
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\obj\Debug\net9.0\refint\CrudDDL.dll
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\obj\Debug\net9.0\CrudDDL.pdb
+D:\.NETProjects\TPs\bibliotheque_de_classe_generique\CrudDDL\obj\Debug\net9.0\ref\CrudDDL.dll

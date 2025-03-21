@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net9.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>Gestion_Eleves_Generic_DDL</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="CrudDDL">
+        <HintPath>..\CrudDDL\bin\Debug\net9.0\CrudDDL.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="DotNetEnv" Version="3.1.1" />
+      <PackageReference Include="MySql.Data" Version="9.2.0" />
+      <PackageReference Include="Npgsql" Version="9.0.3" />
+      <PackageReference Include="Oracle.ManagedDataAccess" Version="23.7.0" />
+      <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="23.7.0" />
+      <PackageReference Include="SqlServerClient" Version="5.5.3" />
+      <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+    </ItemGroup>
+
+
+</Project>
